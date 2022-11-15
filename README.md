@@ -6,7 +6,7 @@
 
 ## Tech stack💻: <br />
 
-HTML5 <br />
-TailwindCSS <br />
-JavaScript <br />
-React <br />
+### HTML5 <br />
+### TailwindCSS <br />
+### JavaScript <br />
+### React <br />
